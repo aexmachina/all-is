@@ -1012,7 +1012,7 @@ h4, h5, h6 {
   -webkit-transition: color 0.2s ease-in-out;
   -moz-transition: color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out;
-  color: #facac7;
+  color: white;
   font-family: 'Open Sans Condensed', sans-serif;
   text-transform: uppercase;
   cursor: pointer;
