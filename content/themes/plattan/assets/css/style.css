@@ -8,7 +8,8 @@
 /******************************************************************************\
     Vendor imports
 \******************************************************************************/
-@import url("http://fonts.googleapis.com/css?family=Open+Sans+Condensed:700");
+@import url("//fonts.googleapis.com/css?family=Open+Sans+Condensed:700");
+
 /**
  * SCSS color scheme for the billy theme
  *
@@ -93,6 +94,10 @@ pre {
   white-space: pre;
   white-space: pre-wrap;
   word-wrap: break-word; }
+
+pre code.language-poetry {
+  font-family: "Georgia";
+}
 
 q {
   quotes: "\201C" "\201D" "\2018" "\2019"; }
@@ -1160,15 +1165,6 @@ ul.main-menu.expanded {
  * @since Plattan 1.0
  */
 .page-content {
-  -webkit-animation: bounce-in-up 0.7s ease;
-  -moz-animation: bounce-in-up 0.7s ease;
-  animation: bounce-in-up 0.7s ease;
-  -webkit-animation-fill-mode: both;
-  -moz-animation-fill-mode: both;
-  animation-fill-mode: both;
-  -webkit-animation-delay: 0.8s;
-  -moz-animation-delay: 0.8s;
-  animation-delay: 0.8s;
   display: block;
   float: left;
   margin-right: 0%;
