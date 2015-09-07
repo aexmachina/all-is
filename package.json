@@ -10,14 +10,6 @@
   "author": "@aexmachina",
   "license": "MIT",
   "dependencies": {
-    "bluebird": "^2.6.4",
-    "config-node": "^1.2.2",
-    "express": "^4.11.0",
-    "ghost": "^0.7.0",
-    "hbs": "^2.8.0",
-    "lodash": "^2.4.1",
-    "lugg": "^1.1.0",
-    "traceur": "0.0.81",
-    "traceur-source-maps": "^1.0.6"
+    "ghost": "^0.7.0"
   }
 }
