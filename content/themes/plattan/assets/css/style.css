@@ -833,7 +833,7 @@ h4, h5, h6 {
   float: left;
   margin-right: 0%;
   width: 100%;
-  background: #ef4f47;
+  background: #9aaab3;
   position: relative;
   z-index: 1;
   -webkit-transform: translatez(0);
@@ -1132,7 +1132,7 @@ ul.main-menu {
     -webkit-transition: color 0.2s ease-in-out;
     -moz-transition: color 0.2s ease-in-out;
     transition: color 0.2s ease-in-out;
-    color: #facac7;
+    color: white;
     white-space: nowrap;
     display: block; }
     @media screen and (min-width: 768px) {
